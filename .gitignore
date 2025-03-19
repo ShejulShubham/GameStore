@@ -1,0 +1,7 @@
+*.db
+appsettings.*
+
+*bin
+*obj
+
+*Migrations
